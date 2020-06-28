@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#1F2531",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "zego-pusher": "plugin://zego-e-commerce/zego-pusher"
+  }
+}

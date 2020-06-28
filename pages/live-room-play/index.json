@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "zego-player": "plugin://zego-e-commerce/zego-player"
+  }
+}

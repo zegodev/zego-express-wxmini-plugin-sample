@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/enter/index",
+    "pages/live-room-push/index",
+    "pages/live-room-play/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "plugins": {
+    "zego-e-commerce": {
+      "version": "1.0.4",
+      "provider": "wx2b8909dae7727f25"
+    }
+  },
+  "sitemapLocation": "sitemap.json"
+}
